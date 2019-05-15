@@ -1,0 +1,37 @@
+* {
+  font-family: 'Ubuntu', Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 2rem;
+
+}
+
+
+.textcenter {
+  text-align: center;
+}
+
+
+.right {
+  position: absolute;
+  right: 0;
+}
+
+.litem {
+  position: relative;
+  border: 1px solid #00000020;
+  border-radius: 3px;
+  margin: 10px auto;
+}
+
+
+.complete {
+  text-decoration: line-through;
+}
+
+.block{
+  display: block;
+  margin: 10px auto;
+}
+
+.hidden{
+  display: none;
+}
